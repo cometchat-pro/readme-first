@@ -33,7 +33,7 @@ Copy/paste code for your website.
 | Web  | React | https://github.com/cometchat-pro/javascript-react-chat-ui-kit |
 | Web  | Angular | https://github.com/cometchat-pro/javascript-angular-chat-ui-kit |
 | Web  | Vue | https://github.com/cometchat-pro/javascript-vue-chat-ui-kit |
-| Web  | Plain Ol' Javascript/jQuery/Others | Please use our Chat Widget instead! |
+| Web  | Plain Old Javascript/jQuery/Any other framework | Please use our Chat Widget instead |
 | iOS  | Swift  | https://github.com/cometchat-pro/ios-swift-chat-ui-kit |
 | iOS  | Objective C  | https://github.com/cometchat-pro/ios-objective-c-chat-ui-kit |
 | Android  | Kotlin  | https://github.com/cometchat-pro/android-kotlin-chat-ui-kit |
