@@ -1,22 +1,13 @@
 # Welcome
 
-CometChat Pro is the quickest way to add text messaging and voice & video calling to your website and mobile apps. Let's jump right in-
+CometChat Pro is the quickest way to add text messaging and voice & video calling to your website and mobile apps. 
 
-## Chat Widgets
+Let's jump right in-
 
-Copy/paste code for your website.
-
-| Platform  | How to |
-| ------------- | ------------- |
-| Web  | Add the "Chat Widget" Extension via the CometChat Pro Dashboard and then create a new widget.  |
-| iOS  | Please use UI Kits instead |
-| Android | Please use UI Kits instead |
-| React Native | Please use SDKs instead |
-| Ionic/Cordova | Please use SDKs instead |
 
 ## Open-source Chat Apps (using our UI Kits)
 
-| Platform  | Programming Language/Framework | Repo |
+| Platform  | Language/Framework | Repo |
 | ------------- | ------------- | ------------- |
 | Web  | React | https://github.com/cometchat-pro/javascript-react-chat-app |
 | Web  | Angular | https://github.com/cometchat-pro/javascript-angular-chat-app |
@@ -28,9 +19,21 @@ Copy/paste code for your website.
 | React Native  | React Native | https://github.com/cometchat-pro/react-native-chat-app |
 | Ionic/Cordova  | Angular | https://github.com/cometchat-pro/ionic-chat-app |
 
+
+## Chat Widgets
+
+| Platform  | How to |
+| ------------- | ------------- |
+| Web  | Add the "Chat Widget" Extension via the CometChat Pro Dashboard and then create a new widget.  |
+| iOS  | Please use UI Kits instead |
+| Android | Please use UI Kits instead |
+| React Native | Please use SDKs instead |
+| Ionic/Cordova | Please use SDKs instead |
+
+
 ## UI Kits
 
-| Platform  | Programming Language | Repo |
+| Platform  | Language/Framework | Repo |
 | ------------- | ------------- | ------------- |
 | Web  | React | https://github.com/cometchat-pro/javascript-react-chat-ui-kit |
 | Web  | Angular | https://github.com/cometchat-pro/javascript-angular-chat-ui-kit |
@@ -40,6 +43,7 @@ Copy/paste code for your website.
 | iOS  | Objective C  | https://github.com/cometchat-pro/ios-objective-c-chat-ui-kit |
 | Android  | Kotlin  | https://github.com/cometchat-pro/android-kotlin-chat-ui-kit |
 | Android  | Java  | https://github.com/cometchat-pro/android-java-chat-ui-kit |
+
 
 ## SDKs
 
@@ -51,8 +55,19 @@ Copy/paste code for your website.
 | React Native | https://github.com/cometchat-pro/react-native-chat-sdk |
 | Ionic/Cordova | https://github.com/cometchat-pro/cordova-ionic-chat-sdk |
 
+
 ## APIs
 
 | Platform  | Repo |
 | ------------- | ------------- |
 | All  | https://prodocs.cometchat.com/reference |
+
+
+## Open-source Chat Push Notification Apps
+
+| Platform  | Language/Framework | Repo |
+| ------------- | ------------- | ------------- |
+| Web  | React | https://github.com/cometchat-pro/javascript-react-chat-push-notification-app |
+| iOS  | Swift  | https://github.com/cometchat-pro/ios-swift-chat-push-notification-app |
+| iOS  | Objective C  | https://github.com/cometchat-pro/ios-objective-c-chat-push-notification-app |
+| Android  | Java  | https://github.com/cometchat-pro/android-java-chat-push-notification-app |
