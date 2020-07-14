@@ -41,7 +41,7 @@ Copy/paste code for your website.
 | Platform  | Repo |
 | ------------- | ------------- |
 | Web  | https://github.com/cometchat-pro/javascript-chat-sdk |
-| iOS  | Swift  | https://github.com/cometchat-pro/ios-chat-sdk |
+| iOS  | https://github.com/cometchat-pro/ios-chat-sdk |
 | Android  | https://github.com/cometchat-pro/android-chat-sdk |
 | React Native | https://github.com/cometchat-pro/react-native-chat-sdk |
 | Ionic/Cordova | https://github.com/cometchat-pro/cordova-ionic-chat-sdk |
