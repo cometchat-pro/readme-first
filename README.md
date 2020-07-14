@@ -7,6 +7,8 @@ Let's jump right in-
 
 ## Open-source Chat Apps (using our UI Kits)
 
+Start off by running one of our sample apps in your favorite programming language. 
+
 | Platform  | Language/Framework | Repo |
 | ------------- | ------------- | ------------- |
 | Web  | React | https://github.com/cometchat-pro/javascript-react-chat-app |
@@ -22,16 +24,16 @@ Let's jump right in-
 
 ## Chat Widgets
 
+If you want something quick, use our Chat Widget to add a full-featured chat solution on your website.
+
 | Platform  | How to |
 | ------------- | ------------- |
-| Web  | Add the "Chat Widget" Extension via the CometChat Pro Dashboard and then create a new widget.  |
-| iOS  | Please use UI Kits instead |
-| Android | Please use UI Kits instead |
-| React Native | Please use SDKs instead |
-| Ionic/Cordova | Please use SDKs instead |
+| Web  | Add the "Chat Widgets" Extension via the CometChat Pro Dashboard and then create a new widget.  |
 
 
 ## UI Kits
+
+Use our fully-polished UI Kits to quickly customize and add CometChat Pro to your website and mobile apps.
 
 | Platform  | Language/Framework | Repo |
 | ------------- | ------------- | ------------- |
@@ -47,6 +49,8 @@ Let's jump right in-
 
 ## SDKs
 
+If you need something more customizable, then use our SDKs to build your own UI.
+
 | Platform  | Repo |
 | ------------- | ------------- |
 | Web  | https://github.com/cometchat-pro/javascript-chat-sdk |
@@ -58,12 +62,18 @@ Let's jump right in-
 
 ## APIs
 
+Use our APIs in your backend to sync user data with CometChat Pro.
+
 | Platform  | Repo |
 | ------------- | ------------- |
 | All  | https://prodocs.cometchat.com/reference |
 
 
-## Open-source Chat Push Notification Apps
+## More
+
+### Open-source Chat Push Notification Apps
+
+Learn how to implement push notifications for your platform.
 
 | Platform  | Language/Framework | Repo |
 | ------------- | ------------- | ------------- |
