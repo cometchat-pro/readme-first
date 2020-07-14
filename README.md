@@ -17,18 +17,37 @@ Copy/paste code for your website.
 | Platform  | Programming Language | Repo |
 | ------------- | ------------- | ------------- |
 | Web  | React | https://github.com/cometchat-pro/javascript-react-chat-app |
-| iOS  | Please use UI Kits  |
-| Android | Please use UI Kits  |
-
+| Web  | Angular | https://github.com/cometchat-pro/javascript-angular-chat-app |
+| Web  | Vue | https://github.com/cometchat-pro/javascript-vue-chat-app |
+| iOS  | Swift  | https://github.com/cometchat-pro/ios-swift-chat-app |
+| iOS  | Objective C  | https://github.com/cometchat-pro/ios-objective-c-chat-app |
+| Android  | Kotlin  | https://github.com/cometchat-pro/android-kotlin-chat-app |
+| Android  | Java  | https://github.com/cometchat-pro/android-java-chat-app |
 
 ## UI Kits
 
-| Platform  | Programming Language | Resources |
+| Platform  | Programming Language | Repo |
 | ------------- | ------------- | ------------- |
-| Web  | React |  |
-| iOS  | Please use UI Kits  |
-| Android | Please use UI Kits  |
+| Web  | React | https://github.com/cometchat-pro/javascript-react-chat-ui-kit |
+| Web  | Angular | https://github.com/cometchat-pro/javascript-angular-chat-ui-kit |
+| Web  | Vue | https://github.com/cometchat-pro/javascript-vue-chat-ui-kit |
+| iOS  | Swift  | https://github.com/cometchat-pro/ios-swift-chat-ui-kit |
+| iOS  | Objective C  | https://github.com/cometchat-pro/ios-objective-c-chat-ui-kit |
+| Android  | Kotlin  | https://github.com/cometchat-pro/android-kotlin-chat-ui-kit |
+| Android  | Java  | https://github.com/cometchat-pro/android-java-chat-ui-kit |
 
 ## SDKs
 
+| Platform  | Repo |
+| ------------- | ------------- |
+| Web  | https://github.com/cometchat-pro/javascript-chat-sdk |
+| iOS  | Swift  | https://github.com/cometchat-pro/ios-chat-sdk |
+| Android  | https://github.com/cometchat-pro/android-chat-sdk |
+| React Native | https://github.com/cometchat-pro/react-native-chat-sdk |
+| Ionic/Cordova | https://github.com/cometchat-pro/cordova-ionic-chat-sdk |
+
 ## APIs
+
+| Platform  | Repo |
+| ------------- | ------------- |
+| All  | https://prodocs.cometchat.com/reference |
