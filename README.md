@@ -12,7 +12,22 @@ Copy/paste code for your website.
 | iOS  | Please use UI Kits  |
 | Android | Please use UI Kits  |
 
+## Open-source Chat Apps
+
+| Platform  | Programming Language | Repo |
+| ------------- | ------------- | ------------- |
+| Web  | React | https://github.com/cometchat-pro/javascript-react-chat-app |
+| iOS  | Please use UI Kits  |
+| Android | Please use UI Kits  |
+
+
 ## UI Kits
+
+| Platform  | Programming Language | Resources |
+| ------------- | ------------- | ------------- |
+| Web  | React |  |
+| iOS  | Please use UI Kits  |
+| Android | Please use UI Kits  |
 
 ## SDKs
 
