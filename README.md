@@ -9,8 +9,10 @@ Copy/paste code for your website.
 | Platform  | How to |
 | ------------- | ------------- |
 | Web  | Add the "Chat Widget" Extension via the CometChat Pro Dashboard and then create a new widget.  |
-| iOS  | Please use UI Kits  |
-| Android | Please use UI Kits  |
+| iOS  | Please use UI Kits instead |
+| Android | Please use UI Kits instead |
+| React Native | Please use SDKs instead |
+| Ionic/Cordova | Please use SDKs instead |
 
 ## Open-source Chat Apps (using our UI Kits)
 
