@@ -19,7 +19,7 @@ Start off by running one of our sample apps in your favorite programming languag
 | Android  | Kotlin  | https://github.com/cometchat-pro/android-kotlin-chat-app |
 | Android  | Java  | https://github.com/cometchat-pro/android-java-chat-app |
 | React Native  | React Native | https://github.com/cometchat-pro/react-native-chat-app |
-| Ionic/Cordova  | Angular | https://github.com/cometchat-pro/ionic-chat-app |
+| Cordova/Ionic  | Angular | https://github.com/cometchat-pro/cordova-ionic-chat-app |
 
 
 ## Chat Widgets
@@ -42,8 +42,6 @@ Use our fully-polished UI Kits to quickly customize and add CometChat Pro to you
 | Web  | Vue | https://github.com/cometchat-pro/javascript-vue-chat-ui-kit |
 | Web  | Plain Old Javascript/jQuery/Any other framework | Please use our Chat Widget instead |
 | iOS  | Swift  | https://github.com/cometchat-pro/ios-swift-chat-ui-kit |
-| iOS  | Objective C  | https://github.com/cometchat-pro/ios-objective-c-chat-ui-kit |
-| Android  | Kotlin  | https://github.com/cometchat-pro/android-kotlin-chat-ui-kit |
 | Android  | Java  | https://github.com/cometchat-pro/android-java-chat-ui-kit |
 
 
