@@ -81,3 +81,12 @@ Learn how to implement push notifications for your platform.
 | iOS  | Swift  | https://github.com/cometchat-pro/ios-swift-chat-push-notification-app |
 | iOS  | Objective C  | https://github.com/cometchat-pro/ios-objective-c-chat-push-notification-app |
 | Android  | Java  | https://github.com/cometchat-pro/android-java-chat-push-notification-app |
+
+
+### Chat Tutorials
+
+Learn how to implement CometChat Pro using our tutorials.
+
+| Platform  | Repo |
+| ------------- | ------------- |
+| All  | https://github.com/cometchat-pro-tutorials |
