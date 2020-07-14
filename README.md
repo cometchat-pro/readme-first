@@ -12,9 +12,9 @@ Copy/paste code for your website.
 | iOS  | Please use UI Kits  |
 | Android | Please use UI Kits  |
 
-## Open-source Chat Apps
+## Open-source Chat Apps (using our UI Kits)
 
-| Platform  | Programming Language | Repo |
+| Platform  | Programming Language/Framework | Repo |
 | ------------- | ------------- | ------------- |
 | Web  | React | https://github.com/cometchat-pro/javascript-react-chat-app |
 | Web  | Angular | https://github.com/cometchat-pro/javascript-angular-chat-app |
@@ -23,6 +23,8 @@ Copy/paste code for your website.
 | iOS  | Objective C  | https://github.com/cometchat-pro/ios-objective-c-chat-app |
 | Android  | Kotlin  | https://github.com/cometchat-pro/android-kotlin-chat-app |
 | Android  | Java  | https://github.com/cometchat-pro/android-java-chat-app |
+| React Native  | React Native | https://github.com/cometchat-pro/react-native-chat-app |
+| Ionic/Cordova  | Angular | https://github.com/cometchat-pro/ionic-chat-app |
 
 ## UI Kits
 
@@ -31,6 +33,7 @@ Copy/paste code for your website.
 | Web  | React | https://github.com/cometchat-pro/javascript-react-chat-ui-kit |
 | Web  | Angular | https://github.com/cometchat-pro/javascript-angular-chat-ui-kit |
 | Web  | Vue | https://github.com/cometchat-pro/javascript-vue-chat-ui-kit |
+| Web  | Plain Ol' Javascript/jQuery/Others | Please use our Chat Widget instead! |
 | iOS  | Swift  | https://github.com/cometchat-pro/ios-swift-chat-ui-kit |
 | iOS  | Objective C  | https://github.com/cometchat-pro/ios-objective-c-chat-ui-kit |
 | Android  | Kotlin  | https://github.com/cometchat-pro/android-kotlin-chat-ui-kit |
