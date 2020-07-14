@@ -35,14 +35,14 @@ If you want something quick, use our Chat Widget to add a full-featured chat sol
 
 Use our fully-polished UI Kits to quickly customize and add CometChat Pro to your website and mobile apps.
 
-| Platform  | Language/Framework | Repo |
-| ------------- | ------------- | ------------- |
-| Web  | React | https://github.com/cometchat-pro/javascript-react-chat-ui-kit |
-| Web  | Angular | https://github.com/cometchat-pro/javascript-angular-chat-ui-kit |
-| Web  | Vue | https://github.com/cometchat-pro/javascript-vue-chat-ui-kit |
-| Web  | Plain Old Javascript/jQuery/Any other framework | Please use our Chat Widget instead |
-| iOS  | Swift  | https://github.com/cometchat-pro/ios-swift-chat-ui-kit |
-| Android  | Java  | https://github.com/cometchat-pro/android-java-chat-ui-kit |
+| Platform  | Language/Framework | Repo | Design (Sketch) |
+| ------------- | ------------- | ------------- | ------------- |
+| Web  | React | https://github.com/cometchat-pro/javascript-react-chat-ui-kit | [Sketch](https://www.sketch.com/s/fa51c0e0-20dc-46d0-951d-856883273361) |
+| Web  | Angular | https://github.com/cometchat-pro/javascript-angular-chat-ui-kit | [Sketch](https://www.sketch.com/s/fa51c0e0-20dc-46d0-951d-856883273361) |
+| Web  | Vue | https://github.com/cometchat-pro/javascript-vue-chat-ui-kit | [Sketch](https://www.sketch.com/s/fa51c0e0-20dc-46d0-951d-856883273361) |
+| Web  | Plain Old Javascript/jQuery/Any other framework | Please use our Chat Widget instead | [Sketch](https://www.sketch.com/s/fa51c0e0-20dc-46d0-951d-856883273361) |
+| iOS  | Swift  | https://github.com/cometchat-pro/ios-swift-chat-ui-kit | [Sketch](https://www.sketch.com/s/3a69ce96-0a4d-49fe-8fd4-fa9d6bad81c2) |
+| Android  | Java  | https://github.com/cometchat-pro/android-java-chat-ui-kit | [Sketch](https://www.sketch.com/s/232c880f-c77e-409e-8dbf-e1919cfd3334) |
 
 
 ## SDKs
