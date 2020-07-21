@@ -56,7 +56,7 @@ If you need something more customizable, then use our SDKs to build your own UI.
 | Android  | https://github.com/cometchat-pro/android-chat-sdk |
 | React Native | https://github.com/cometchat-pro/react-native-chat-sdk |
 | Ionic/Cordova | https://github.com/cometchat-pro/cordova-ionic-chat-sdk |
-
+| Xamarin | https://github.com/cometchat-pro/xamarin-chat-sdk |
 
 ## APIs
 
