@@ -44,6 +44,7 @@ Use our fully-polished UI Kits to quickly customize and add CometChat Pro to you
 | iOS  | Swift  | https://github.com/cometchat-pro/ios-swift-chat-ui-kit | [Sketch](https://www.sketch.com/s/3a69ce96-0a4d-49fe-8fd4-fa9d6bad81c2) |
 | Android  | Java  | https://github.com/cometchat-pro/android-java-chat-ui-kit | [Sketch](https://www.sketch.com/s/232c880f-c77e-409e-8dbf-e1919cfd3334) |
 | Android  | Kotlin  | https://github.com/cometchat-pro/android-kotlin-chat-ui-kit | Same as above |
+| React Native  | React Native  | https://github.com/cometchat-pro/react-native-chat-ui-kit | Same as above |
 
 ## SDKs
 
@@ -56,7 +57,6 @@ If you need something more customizable, then use our SDKs to build your own UI.
 | Android  | https://github.com/cometchat-pro/android-chat-sdk |
 | React Native | https://github.com/cometchat-pro/react-native-chat-sdk |
 | Ionic/Cordova | https://github.com/cometchat-pro/cordova-ionic-chat-sdk |
-| Xamarin (alpha) | https://github.com/cometchat-pro/xamarin-chat-sdk |
 
 ## APIs
 
