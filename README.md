@@ -82,10 +82,9 @@ Learn how to implement push notifications for your platform.
 | React Native  | React Native  | https://github.com/cometchat-pro/react-native-chat-push-notification-app |
 | Cordova/Ionic  | Angular  | https://github.com/cometchat-pro/ionic-cordova-chat-push-notification-app |
 
-### Chat Tutorials
+### Documentation
 
-Learn how to implement CometChat Pro using our tutorials.
+Learn how to implement CometChat Pro.
 
-| Platform  | Repo |
-| ------------- | ------------- |
-| All  | https://github.com/cometchat-pro-tutorials |
+| Quick Start  | https://prodocs.cometchat.com |
+| Tutorials  | https://www.cometchat.com/tutorials |
