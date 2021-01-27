@@ -62,9 +62,9 @@ If you need something more customizable, then use our SDKs to build your own UI.
 
 Use our APIs in your backend to sync user data with CometChat Pro.
 
-| Platform  | Repo |
+| Platform  | Link |
 | ------------- | ------------- |
-| All  | https://prodocs.cometchat.com/reference |
+| All Backend Technologies  | https://prodocs.cometchat.com/reference |
 
 
 ## More
@@ -86,5 +86,7 @@ Learn how to implement push notifications for your platform.
 
 Learn how to implement CometChat Pro.
 
-| Quick Start  | https://prodocs.cometchat.com |
+| Type  | Link |
+| ------------- | ------------- |
+| Quick Start & Documentation | https://prodocs.cometchat.com |
 | Tutorials  | https://www.cometchat.com/tutorials |
