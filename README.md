@@ -5,6 +5,16 @@ CometChat Pro is the quickest way to add text messaging and voice & video callin
 Let's jump right in-
 
 
+## Documentation
+
+Learn how to implement CometChat Pro.
+
+| Type  | Link |
+| ------------- | ------------- |
+| Quick Start & Documentation | https://prodocs.cometchat.com |
+| Tutorials  | https://www.cometchat.com/tutorials |
+
+
 ## Open-source Chat Apps (using our UI Kits)
 
 Start off by running one of our sample apps in your favorite programming language. 
@@ -20,6 +30,20 @@ Start off by running one of our sample apps in your favorite programming languag
 | Android  | Java  | https://github.com/cometchat-pro/android-java-chat-app |
 | React Native  | React Native | https://github.com/cometchat-pro/react-native-chat-app |
 | Cordova/Ionic  | Angular | https://github.com/cometchat-pro/cordova-ionic-chat-app |
+
+
+### Open-source Chat Push Notification Apps
+
+Learn how to implement push notifications for your platform.
+
+| Platform  | Language/Framework | Repo |
+| ------------- | ------------- | ------------- |
+| Web  | React | https://github.com/cometchat-pro/javascript-react-chat-push-notification-app |
+| iOS  | Swift  | https://github.com/cometchat-pro/ios-swift-chat-push-notification-app |
+| iOS  | Objective C  | https://github.com/cometchat-pro/ios-objective-c-chat-push-notification-app |
+| Android  | Java  | https://github.com/cometchat-pro/android-java-chat-push-notification-app |
+| React Native  | React Native  | https://github.com/cometchat-pro/react-native-chat-push-notification-app |
+| Cordova/Ionic  | Angular  | https://github.com/cometchat-pro/ionic-cordova-chat-push-notification-app |
 
 
 ## Chat Widgets
@@ -58,7 +82,7 @@ If you need something more customizable, then use our SDKs to build your own UI.
 | React Native | https://github.com/cometchat-pro/react-native-chat-sdk |
 | Ionic/Cordova | https://github.com/cometchat-pro/cordova-ionic-chat-sdk |
 
-## APIs
+## Rest APIs
 
 Use our APIs in your backend to sync user data with CometChat Pro.
 
@@ -66,27 +90,3 @@ Use our APIs in your backend to sync user data with CometChat Pro.
 | ------------- | ------------- |
 | All Backend Technologies  | https://prodocs.cometchat.com/reference |
 
-
-## More
-
-### Open-source Chat Push Notification Apps
-
-Learn how to implement push notifications for your platform.
-
-| Platform  | Language/Framework | Repo |
-| ------------- | ------------- | ------------- |
-| Web  | React | https://github.com/cometchat-pro/javascript-react-chat-push-notification-app |
-| iOS  | Swift  | https://github.com/cometchat-pro/ios-swift-chat-push-notification-app |
-| iOS  | Objective C  | https://github.com/cometchat-pro/ios-objective-c-chat-push-notification-app |
-| Android  | Java  | https://github.com/cometchat-pro/android-java-chat-push-notification-app |
-| React Native  | React Native  | https://github.com/cometchat-pro/react-native-chat-push-notification-app |
-| Cordova/Ionic  | Angular  | https://github.com/cometchat-pro/ionic-cordova-chat-push-notification-app |
-
-### Documentation
-
-Learn how to implement CometChat Pro.
-
-| Type  | Link |
-| ------------- | ------------- |
-| Quick Start & Documentation | https://prodocs.cometchat.com |
-| Tutorials  | https://www.cometchat.com/tutorials |
